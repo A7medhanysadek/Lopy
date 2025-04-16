@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nIo6XbAYpgqMLtcTv+p3k/Tx3x08h6iTwTI4Q1mYsP4=",
+  "Source": "LopyBackendWebApp",
+  "BasePath": "_content/LopyBackendWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

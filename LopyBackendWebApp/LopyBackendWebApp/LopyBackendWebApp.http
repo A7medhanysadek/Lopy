@@ -1,0 +1,6 @@
+@LopyBackendWebApp_HostAddress = http://localhost:5220
+
+GET {{LopyBackendWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

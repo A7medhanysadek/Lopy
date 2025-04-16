@@ -39,9 +39,9 @@ The system is designed to connect with an AI model (external to this repo) that:
 
 ---
 
-===============================
+
   LOPY - Backend Setup (.NET 9)
-===============================
+==
 
 ⚙️ Environment Setup:
 

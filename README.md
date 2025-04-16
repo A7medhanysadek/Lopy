@@ -67,7 +67,7 @@ The system is designed to connect with an AI model (external to this repo) that:
 4. Set up environment config:
    - Open the file named: appsettings.json
    - Change the following:
-
+```json
 {
   "Amadeus": {
     "ClientId": "YOUR_CLIENT_ID",
@@ -77,7 +77,7 @@ The system is designed to connect with an AI model (external to this repo) that:
     "DefaultConnection": "Your SQL Server connection string here"
   }
 }
-
+```
 --------------------------------
 
 5. Run the application:
